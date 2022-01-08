@@ -1,0 +1,41 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin:0px;
+}
+.note{
+    color:#EFCA08;
+    font-size: 15px;
+}
+body{
+    background: rgb(244,0,0);
+background: linear-gradient(90deg, rgba(244,0,0,0.7658540955444678) 4%, rgba(248,111,0,1) 49%, rgba(255,204,0,1) 100%);
+font-family: 'Moon Dance';
+font-size: 35px;
+color:#003049 ;
+font-weight: bolder;
+}
+.div_speed{
+    float:left;
+}
+.IDK{
+    width: 100px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 25px;
+    margin:15px;
+}
+.div_volume{
+    float:right;
+}
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.ab{
+    font-size: 25px;
+}
+canvas{
+    margin-top:200px;
+}
